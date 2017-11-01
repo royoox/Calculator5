@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonOne">1</string>
+    <string name="buttontwo">2</string>
+    <string name="buttonthree">3</string>
+    <string name="buttonminus">-</string>
+    <string name="buttonfour">4</string>
+    <string name="buttonfive">5</string>
+    <string name="buttonsix">6</string>
+    <string name="buttonplus">+</string>
+    <string name="buttonseven">7</string>
+    <string name="buttoneight">8</string>
+    <string name="buttonnine">9</string>
+    <string name="buttonmultiplication">*</string>
+    <string name="buttonzero">0</string>
+    <string name="buttonpoing">.</string>
+    <string name="buttonequal">=</string>
+    <string name="buttondivision">/</string>
+    <string name="history">History</string>
+    <string name="create_file">Create File</string>
+    <string name="show_file">Show File</string>
+</resources>
